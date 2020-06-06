@@ -1,6 +1,6 @@
 
 // Write your code here
 
-const multiply = num1 * num2
+const multiply = 31 * 2
 
 const random = math.ceil(math.random())
