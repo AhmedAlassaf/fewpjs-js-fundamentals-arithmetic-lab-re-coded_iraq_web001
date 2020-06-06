@@ -5,3 +5,5 @@ const num2 = 2
 const multiply = num1 * num2
 
 const random = Math.random() + 1
+
+const mod = 16 % 6
